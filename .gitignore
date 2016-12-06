@@ -22,7 +22,6 @@
 *.cout
 *.crf
 *.d
-*.sct
 *.htm
 *.map
 *.axf
